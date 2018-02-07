@@ -24,7 +24,6 @@ class ViewController: UIViewController {
     }
     
     
-    
     @IBAction func start() {
         if !timer.isValid {
             //タイマーが動作していなかったら動かす
